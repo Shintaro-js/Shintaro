@@ -1,0 +1,15 @@
+start_day,member_casual,avg_rides
+Sunday,casual,335684.0
+Sunday,member,408835.0
+Monday,casual,234824.0
+Monday,member,494571.0
+Tuesday,casual,246222.0
+Tuesday,member,576750.0
+Wednesday,casual,249161.0
+Wednesday,member,586451.0
+Thursday,casual,270608.0
+Thursday,member,589582.0
+Friday,casual,311914.0
+Friday,member,531593.0
+Saturday,casual,410693.0
+Saturday,member,472855.0
